@@ -1,5 +1,4 @@
 mkdocs-material==<9.5.25>
-mkdocs
 #Add pip package if needed
 #mkdocs-bootswatch
 #mkdocs-minify-plugin
