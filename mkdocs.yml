@@ -1,7 +1,7 @@
 # [Info]
 # 左上角标题
 site_name: 涂羽飞的个人网站
-site_url:
+site_url:https://github.com/Tu-Yufei/123
 site_author: 涂羽飞
 site_description: 涂羽飞的个人网站
 
@@ -23,7 +23,7 @@ theme:
   # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#color-palette-toggle
   palette:
     # 日间模式
-    - scheme: default
+    - scheme: 默认
       # 主颜色
       # https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/#primary-color
       primary: indigo
